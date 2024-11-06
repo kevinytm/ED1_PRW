@@ -134,7 +134,7 @@ abbr[title]{
         .contenedor-estetica{
             height:100vh;display:grid;
             gap:2.5rem;grid-template-columns:repeat(2,1fr);
-            background-color:#372a04e6;
+            background-color:#7e490ce6;
            }
         }
         .contenedor-estetica .imagen{
