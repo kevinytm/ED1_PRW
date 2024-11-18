@@ -6,6 +6,15 @@
         color: white;
     }
 </style>
+
+<a href="Static/convertirpdf/excel.php">
+    <img src="Static/img/excel.png" alt="">
+</a>
+
+<a href="Static/convertirpdf/reporte.php">
+    <img src="Static/img/pdf.png" alt="">
+</a>
+
 <table  class="table table-bordered">
     <thead>
         <tr>

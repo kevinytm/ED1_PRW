@@ -12,6 +12,15 @@
     $usuario = $_SESSION['usuario']; 
     if (esAdmin($usuario)){
 ?>
+
+<a href="Static/convertirpdf/excelReservaciones.php">
+    <img src="Static/img/excel.png" alt="">
+</a>
+
+<a href="Static/convertirpdf/reporteReservaciones.php">
+    <img src="Static/img/pdf.png" alt="">
+</a>
+
 <table  class="table table-bordered">
     <thead>
         <tr>
